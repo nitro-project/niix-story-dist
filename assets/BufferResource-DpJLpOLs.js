@@ -1,4 +1,4 @@
-import{w as _,a as g,S as c,u as U,B as y,b as l,E as I,c as m}from"./index-B5DJ1mtx.js";const h={name:"local-uniform-bit",vertex:{header:`
+import{w as _,a as g,S as c,u as U,B as y,b as l,E as I,c as m}from"./index-kdEmMxNh.js";const h={name:"local-uniform-bit",vertex:{header:`
 
             struct LocalUniforms {
                 uTransformMatrix:mat3x3<f32>,
